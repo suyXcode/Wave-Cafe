@@ -67,7 +67,7 @@ Open `index.html` in your browser or deploy on GitHub Pages / Netlify.
 
 **📸 Screenshots**
 
-![]()
+![](./img/sk.png)
 
 🤝 Contributing
 
