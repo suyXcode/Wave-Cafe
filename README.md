@@ -6,21 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-A modern responsive **Cafe / Coffee Shop Website Template** built with **HTML, CSS, and JavaScript**.
-
----
-
-## 📑 Table of Contents
-- [About](#-about)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Live Preview](#-live-preview)
-- [Usage](#-usage)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
+A modern responsive **Cafe Website Template** built with **HTML, CSS, and JavaScript**.
 
 ---
 
@@ -50,4 +36,48 @@ It features a clean UI, responsive layout, and a video background to create an e
 ---
 
 ## 📁 Project Structure
+
+
+        Wave-Cafe/
+                ├── css/
+                ├── fontawesome/
+                ├── img/
+                ├── js/
+                ├── video/
+                ├── index.html
+                ├── README.md
+                └── LICENSE
+
+
+---
+
+## 🚀 Live Preview
+
+Open `index.html` in your browser or deploy on GitHub Pages / Netlify.
+
+
+---
+
+## 🧩 Usage
+
+```bash
+     git clone https://github.com/suyxcode-18/Wave-Cafe.git
+     cd Wave-Cafe
+```
+
+**📸 Screenshots**
+
+![]()
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+📄 License
+
+This project is licensed under the suyxcode-18 License.
+
+
+
+
 
